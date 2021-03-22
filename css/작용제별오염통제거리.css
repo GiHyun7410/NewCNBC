@@ -138,7 +138,7 @@ table caption{
 
 img{column-width: inherit;	max-width: 100%;	height: auto;	vertical-align: middle; margin-left: 0px;}
 
-.img_s{max-width: 98%; margin-right: 2px; margin-left: 6.5px; }
+.img_s{max-width: 100%; margin-right: 2px; margin-left: 6.5px; }
 
 /*--------------------------------------------*/
 
