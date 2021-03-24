@@ -227,7 +227,7 @@ input#sidebar:checked ~ .background {opacity: .8; visibility: visible;}
 input[id*="sidebar"] + label span {
 	display: block;
 	position: relative;
-	width: 30%;
+	width: 100%;
 	height: 30%;
 	right: 20%;
 	color: aliceblue;
