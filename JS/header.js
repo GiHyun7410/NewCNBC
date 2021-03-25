@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	document.getElementById('header').innerHTML='<object type="ment.html" data="header.html"> </object>';
+	document.getElementById('header').innerHTML='<object type="menu.html" data="header.html"> </object>';
 })
