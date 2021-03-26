@@ -494,7 +494,7 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     margin-bottom: 0px;
 }
 
-[id*=modal_close] button {
+/*[id*=modal_close] button {
 	border-bottom-width: 0px;
     padding-top: 10px;
     border-top-width: 0px;
@@ -505,7 +505,7 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     border-left-width: 0px;
     top: 0px;
     left: 0px;
-}
+}*/
 /*
 [id*=modal] .modal_content {
 	width: 100%;
