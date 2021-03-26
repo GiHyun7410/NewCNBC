@@ -507,7 +507,7 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     left: 0px;
 }
 
-[id*=modal] .modal_content {
+/*[id*=modal] .modal_content {
 	width: 100%;
 	margin: 0 auto;
 	padding-right: 0px;
@@ -519,7 +519,7 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 	border:2px solid #999;
 	border-radius: 5px;*/
 }
-
+*/
 
 [id*=hedl] .modal_layer {
   position: fixed;
@@ -541,4 +541,17 @@ h3{
 .style-logo {
 	padding-top: 0px;
 	margin-top: 37px;
+}
+
+#modal_close {
+	border-bottom-width: 0px;
+    padding-top: 10px;
+    border-top-width: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    top: 0px;
+    left: 0px;
 }
