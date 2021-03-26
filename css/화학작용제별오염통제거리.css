@@ -75,13 +75,16 @@ html, html * {
 
 /*-------------------------------------------------*/
 
-button{
+.btn{
   width: 3em;
   padding: 2px;
   background: #F1EFEF;
   border-radius: 5px;
   border: 1px solid #F0F0F0;
 }
+
+
+
 
 .btn1{
 	width: 9em;
