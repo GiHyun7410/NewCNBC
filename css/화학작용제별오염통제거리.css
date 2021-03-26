@@ -1180,6 +1180,19 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     margin-bottom: 0px;
 }
 
+[id*=modal_close] button {
+	border-bottom-width: 0px;
+    padding-top: 10px;
+    border-top-width: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    top: 0px;
+    left: 0px;
+}
+
 [id*=modal] .modal_content {
 	width: 100%;
 	margin: 0 auto;
