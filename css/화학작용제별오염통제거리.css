@@ -507,7 +507,7 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     left: 0px;
 }
 
-/*[id*=modal] .modal_content {
+[id*=modal] .modal_content {
 	width: 100%;
 	margin: 0 auto;
 	padding-right: 0px;
@@ -515,11 +515,11 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 	padding-bottom: 5px;
 	padding-top: 0px;
 	z-index: 600;
-	/*background:#fff;
+	background:#fff;
 	border:2px solid #999;
-	border-radius: 5px;*/
+	border-radius: 5px;
 }
-*/
+
 
 [id*=hedl] .modal_layer {
   position: fixed;
