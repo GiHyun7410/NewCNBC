@@ -463,35 +463,6 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 
 
 
-#modal_00 {
-	display: none;
-	position: fixed;
-	width: 100%;
-	height:100%;
-	margin: 0px;
-	z-index: 400;
-}
-
-
-#modala00 {
-	display: none;
-	position: fixed;
-	width: 100%;
-	height:100%;
-	margin: 10px auto;
-	z-index: 600;
-}
-
-
-#modalb00 {
-	display: none;
-	position: fixed;
-	width: 100%;
-	height:100%;
-	margin: 10px auto;
-	z-index: 200;
-}
-
 
 /*---------------------------------*/
 
@@ -504,25 +475,6 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 	z-index: 200;
 }
 
-
-#modala01 {
-	display: none;
-	position: fixed;
-	width: 100%;
-	height:100%;
-	margin: 10px auto;
-	z-index: 200;
-}
-
-
-#modalb01 {
-	display: none;
-	position: fixed;
-	width: 100%;
-	height:100%;
-	margin: 10px auto;
-	z-index: 200;
-}
 
 /*------------------------------------------------*/
 
@@ -1257,4 +1209,22 @@ h3{
 	margin-left: 10px;
 	font-size: 16px;
 	color: crimson;
+}
+
+.style-logo {
+	padding-top: 0px;
+	margin-top: 37px;
+}
+
+#modal_close {
+	border-bottom-width: 0px;
+    padding-top: 10px;
+    border-top-width: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    top: 0px;
+    left: 0px;
 }
