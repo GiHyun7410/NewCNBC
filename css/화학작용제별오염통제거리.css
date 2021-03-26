@@ -76,7 +76,7 @@ html, html * {
 /*-------------------------------------------------*/
 
 
-button{
+.btn{
   width: 3em;
   padding: 2px;
   background: #F1EFEF;
@@ -90,6 +90,7 @@ button{
 .btn1{
 	width: 9em;
 }
+
 
 
 p{
