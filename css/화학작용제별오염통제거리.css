@@ -470,14 +470,14 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 
 /*---------------------------------*/
 
-/*#modal_01 {
-	display: none;
+#modal_01 {
+	/*display: none;
 	position: fixed;
 	width:100%;
 	height:100%;
 	margin: 10px auto;
-	z-index: 200;
-}*/
+	z-index: 200;*/
+}
 
 
 /*------------------------------------------------*/
