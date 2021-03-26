@@ -63,7 +63,7 @@ html, html * {
     .table2{position: absolute;	top: 200px;	width: 100%;	z-index: -1;	}
 
 
-.table{	background-color: #6495ED;}
+.table{	background-color: #385723;}
 
     .tbwid_10{width:10%;}
     .tbwid_20{width:50%;}
@@ -123,12 +123,12 @@ tr{
 
 
 th{
-	background-color: cornflowerblue;
+	background-color: #385723;
 	color: #fff;
 }
 
 tfoot td{
-	background-color: cornflowerblue;
+	background-color: #385723;
 	color: #fff;
 }
 
