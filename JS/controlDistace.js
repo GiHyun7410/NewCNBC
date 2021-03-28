@@ -12,81 +12,17 @@ function init() {
 		})
 	})	
 
-
-
-	// function swClick(swId){
-			
-	// 	var swNum = swId.replace('modal_opne_btn','');
-			
-	// 	switch(swNum){
-				
-	// 		case '':
-	// 			$("#modal_opne_btn").click(function(){
-	// 				$("#modal").fadeIn();
-	// 			});
-	// 			break;
-	// 		case '_01':
-	// 			$("#modal_opne_btn").click(function(){
-	// 				$("#modal_01").fadeIn();
-	// 			});
-	// 			break;
-	// 		case '_02':
-	// 			$("#modal_opne_btn").click(function(){
-	// 				$("#modal_02").fadeIn();
-	// 			});
-	// 			break;
-	// 		case '_03':
-	// 			$("#modal_opne_btn").click(function(){
-	// 				$("#modal_03").fadeIn();
-	// 			});
-	// 			break;
-	// 		case '_04':
-	// 			$("#modal_opne_btn").click(function(){
-	// 				$("#modal_04").fadeIn();
-	// 			});
-	// 			break;
-	// 		case '_05':
-	// 			$("#modal_opne_btn").click(function(){
-	// 				$("#modal_05").fadeIn();
-	// 			});
-	// 			break;
-	// 		case '_06':
-	// 			$("#modal_opne_btn").click(function(){
-	// 				$("#modal_06").fadeIn();
-	// 			});
-	// 			break;
-	// 	}
-	// }	
-
-
-
-	$("#modal_opne_btn_a00").click(function(){
-        $("#modala00").fadeIn();
-    });
-   
- 	$("#modal_close_btn_a00").click(function(){
-        $("#modala00").fadeOut();
-    }); 
-	
-
-	$("#modal_opne_btn_b00").click(function(){
-        $("#modalb00").fadeIn();
-    });
-   	$("#modal_close_btn_b00").click(function(){
-        $("#modalb00").fadeOut();
-    });
-
-
 // ----------------------------------
 
-   	$("#modal_opne_btn_01").click(function(){
+   	$("#modal_open_btn_01").click(function(){
 		$("#modal_01").fadeIn();
     });
  	$("#modal_close_btn_01").click(function(){
         $("#modal_01").fadeOut();
     });
 
-	$("#modal_opne_btn_a01").click(function(){
+
+	$("#modal_open_btn_a01").click(function(){
         $("#modala01").fadeIn();
     });
    
@@ -95,7 +31,7 @@ function init() {
     }); 
 	
 
-	$("#modal_opne_btn_b01").click(function(){
+	$("#modal_open_btn_b01").click(function(){
         $("#modalb01").fadeIn();
     });
    	$("#modal_close_btn_b01").click(function(){
@@ -105,7 +41,7 @@ function init() {
 // --------------------------	
 
 
-   	$("#modal_opne_btn_02").click(function(){
+   	$("#modal_open_btn_02").click(function(){
 		$("#modal_02").fadeIn();
     });
  	$("#modal_close_btn_02").click(function(){
@@ -115,7 +51,7 @@ function init() {
 	
 
 	
-   	$("#modal_opne_btn_03").click(function(){
+   	$("#modal_open_btn_03").click(function(){
 		$("#modal_03").fadeIn();
     });
  	$("#modal_close_btn_03").click(function(){
@@ -124,7 +60,7 @@ function init() {
 	
 	
 
-   	$("#modal_opne_btn_04").click(function(){
+   	$("#modal_open_btn_04").click(function(){
 		$("#modal_04").fadeIn();
     });
  	$("#modal_close_btn_04").click(function(){
@@ -132,7 +68,7 @@ function init() {
     }); 
 	
 
-	$("#modal_opne_btn_05").click(function(){
+	$("#modal_open_btn_05").click(function(){
 		$("#modal_05").fadeIn();
     });	
  	$("#modal_close_btn_05").click(function(){
@@ -141,7 +77,7 @@ function init() {
 
    
 
-	$("#modal_opne_btn_06").click(function(){
+	$("#modal_open_btn_06").click(function(){
 		$("#modal_06").fadeIn();
     });   
 
@@ -153,7 +89,7 @@ function init() {
 	
 
 
-	$("#modal_opne_btn_07").click(function(){
+	$("#modal_open_btn_07").click(function(){
 		$("#modal_07").fadeIn();
     });
    
@@ -163,7 +99,7 @@ function init() {
 	
 
 	
-	$("#modal_opne_btn_08").click(function(){
+	$("#modal_open_btn_08").click(function(){
 		$("#modal_08").fadeIn();
     });
    
@@ -174,7 +110,7 @@ function init() {
 
 	
 		
-	$("#modal_opne_btn_09").click(function(){
+	$("#modal_open_btn_09").click(function(){
 		$("#modal_09").fadeIn();
     });
    
@@ -186,7 +122,7 @@ function init() {
 	
 //---------------------------------------------------------------
 	
-	$("#modal_opne_btn_10").click(function(){
+	$("#modal_open_btn_10").click(function(){
 		$("#modal_10").fadeIn();
     });
    
@@ -195,12 +131,9 @@ function init() {
     }); 
 	
 
-	
-//	--------------------------------------------------------
-	
-	
+
 		
-	$("#modal_opne_btn_11").click(function(){
+	$("#modal_open_btn_11").click(function(){
 		$("#modal_11").fadeIn();
     });
    
@@ -209,12 +142,8 @@ function init() {
     }); 
 		
 
-		
-//	--------------------------------------------------------
-		
-	
-		
-	$("#modal_opne_btn_12").click(function(){
+				
+	$("#modal_open_btn_12").click(function(){
 		$("#modal_12").fadeIn();
     });
    
@@ -226,7 +155,7 @@ function init() {
 		
 	
 		
-	$("#modal_opne_btn_13").click(function(){
+	$("#modal_open_btn_13").click(function(){
 		$("#modal_13").fadeIn();
     });
    
@@ -239,7 +168,7 @@ function init() {
 		
 	
 		
-	$("#modal_opne_btn_14").click(function(){
+	$("#modal_open_btn_14").click(function(){
 		$("#modal_14").fadeIn();
     });
    
@@ -254,7 +183,7 @@ function init() {
 		
 		
 		
-	$("#modal_opne_btn_15").click(function(){
+	$("#modal_open_btn_15").click(function(){
 		$("#modal_15").fadeIn();
     });
    
@@ -265,7 +194,7 @@ function init() {
 	//	--------------------------------------------------------	
 	
 		
-	$("#modal_opne_btn_16").click(function(){
+	$("#modal_open_btn_16").click(function(){
 		$("#modal_16").fadeIn();
     });
    
@@ -275,7 +204,7 @@ function init() {
 	
 	//	--------------------------------------------------------	
 		
-	$("#modal_opne_btn_17").click(function(){
+	$("#modal_open_btn_17").click(function(){
 		$("#modal_17").fadeIn();
     });
    
@@ -286,7 +215,7 @@ function init() {
 	//	--------------------------------------------------------	
 	
 		
-	$("#modal_opne_btn_18").click(function(){
+	$("#modal_open_btn_18").click(function(){
 		$("#modal_18").fadeIn();
     });
    
@@ -296,7 +225,7 @@ function init() {
 		
 	//	--------------------------------------------------------	
 	
-	$("#modal_opne_btn_19").click(function(){
+	$("#modal_open_btn_19").click(function(){
 		$("#modal_19").fadeIn();
     });
    
@@ -307,7 +236,7 @@ function init() {
 		
 	//	--------------------------------------------------------	
 	
-	$("#modal_opne_btn_20").click(function(){
+	$("#modal_open_btn_20").click(function(){
 		$("#modal_20").fadeIn();
     });
    
@@ -317,7 +246,7 @@ function init() {
 
 	//	--------------------------------------------------------	
 	
-	$("#modal_opne_btn_21").click(function(){
+	$("#modal_open_btn_21").click(function(){
 		$("#modal_21").fadeIn();
     });
    
@@ -328,7 +257,7 @@ function init() {
 	//	--------------------------------------------------------	
 	
 	
-	$("#modal_opne_btn_22").click(function(){
+	$("#modal_open_btn_22").click(function(){
 		$("#modal_22").fadeIn();
     });
    
@@ -337,7 +266,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_23").click(function(){
+	$("#modal_open_btn_23").click(function(){
 		$("#modal_23").fadeIn();
     });
    
@@ -347,7 +276,7 @@ function init() {
 	
 	
 	
-	$("#modal_opne_btn_24").click(function(){
+	$("#modal_open_btn_24").click(function(){
 		$("#modal_24").fadeIn();
     });
    
@@ -356,7 +285,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_25").click(function(){
+	$("#modal_open_btn_25").click(function(){
 		$("#modal_25").fadeIn();
     });
    
@@ -365,7 +294,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_26").click(function(){
+	$("#modal_open_btn_26").click(function(){
 		$("#modal_26").fadeIn();
     });
    
@@ -374,7 +303,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_27").click(function(){
+	$("#modal_open_btn_27").click(function(){
 		$("#modal_27").fadeIn();
     });
    
@@ -383,7 +312,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_28").click(function(){
+	$("#modal_open_btn_28").click(function(){
 		$("#modal_28").fadeIn();
     });
    
@@ -392,7 +321,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_29").click(function(){
+	$("#modal_open_btn_29").click(function(){
 		$("#modal_29").fadeIn();
     });
    
@@ -401,7 +330,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_30").click(function(){
+	$("#modal_open_btn_30").click(function(){
 		$("#modal_30").fadeIn();
     });
    
@@ -410,7 +339,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_31").click(function(){
+	$("#modal_open_btn_31").click(function(){
 		$("#modal_31").fadeIn();
     });
    
@@ -419,7 +348,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_32").click(function(){
+	$("#modal_open_btn_32").click(function(){
 		$("#modal_32").fadeIn();
     });
    
@@ -428,7 +357,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_33").click(function(){
+	$("#modal_open_btn_33").click(function(){
 		$("#modal_33").fadeIn();
     });
    
@@ -437,7 +366,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_34").click(function(){
+	$("#modal_open_btn_34").click(function(){
 		$("#modal_34").fadeIn();
     });
    
@@ -446,7 +375,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_35").click(function(){
+	$("#modal_open_btn_35").click(function(){
 		$("#modal_35").fadeIn();
     });
    
@@ -455,7 +384,7 @@ function init() {
 	});
 	
 	
-	$("#modal_opne_btn_36").click(function(){
+	$("#modal_open_btn_36").click(function(){
 		$("#modal_36").fadeIn();
     });
    
@@ -464,7 +393,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_37").click(function(){
+	$("#modal_open_btn_37").click(function(){
 		$("#modal_37").fadeIn();
     });
    
@@ -473,7 +402,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_38").click(function(){
+	$("#modal_open_btn_38").click(function(){
 		$("#modal_38").fadeIn();
     });
    
@@ -482,7 +411,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_39").click(function(){
+	$("#modal_open_btn_39").click(function(){
 		$("#modal_39").fadeIn();
     });
    
@@ -491,7 +420,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_40").click(function(){
+	$("#modal_open_btn_40").click(function(){
 		$("#modal_40").fadeIn();
     });
    
@@ -500,7 +429,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_41").click(function(){
+	$("#modal_open_btn_41").click(function(){
 		$("#modal_41").fadeIn();
     });
    
@@ -509,7 +438,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_42").click(function(){
+	$("#modal_open_btn_42").click(function(){
 		$("#modal_42").fadeIn();
     });
    
@@ -518,7 +447,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_43").click(function(){
+	$("#modal_open_btn_43").click(function(){
 		$("#modal_43").fadeIn();
     });
    
@@ -527,7 +456,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_44").click(function(){
+	$("#modal_open_btn_44").click(function(){
 		$("#modal_44").fadeIn();
     });
    
@@ -536,7 +465,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_45").click(function(){
+	$("#modal_open_btn_45").click(function(){
 		$("#modal_45").fadeIn();
     });
    
@@ -545,7 +474,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_46").click(function(){
+	$("#modal_open_btn_46").click(function(){
 		$("#modal_46").fadeIn();
     });
    
@@ -554,7 +483,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_47").click(function(){
+	$("#modal_open_btn_47").click(function(){
 		$("#modal_47").fadeIn();
     });
    
@@ -563,7 +492,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_48").click(function(){
+	$("#modal_open_btn_48").click(function(){
 		$("#modal_48").fadeIn();
     });
    
@@ -572,7 +501,7 @@ function init() {
   	});
 	
 	
-	$("#modal_opne_btn_49").click(function(){
+	$("#modal_open_btn_49").click(function(){
 		$("#modal_49").fadeIn();
     });
    
