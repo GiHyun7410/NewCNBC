@@ -493,6 +493,8 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     
     /*margin-top: 0px;*/
     /*margin-bottom: 0px;*/
+      padding-top: 0px;
+    border-top-width: 0px;
 }
 
 /*[id*=modal_close] button {
