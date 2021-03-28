@@ -22,22 +22,6 @@ function init() {
     });
 
 
-	$("#modal_open_btn_a01").click(function(){
-        $("#modala01").fadeIn();
-    });
-   
- 	$("#modal_close_btn_a01").click(function(){
-        $("#modala01").fadeOut();
-    }); 
-	
-
-	$("#modal_open_btn_b01").click(function(){
-        $("#modalb01").fadeIn();
-    });
-   	$("#modal_close_btn_b01").click(function(){
-        $("#modalb01").fadeOut();
-    }); 
-	
 // --------------------------	
 
 
