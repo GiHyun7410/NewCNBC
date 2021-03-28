@@ -491,8 +491,8 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
      height: 40px; 
     /* margin-left: calc(95% - 70px - 13px); */
     
-    margin-top: 0px;
-    margin-bottom: 0px;
+    /*margin-top: 0px;*/
+    /*margin-bottom: 0px;*/
 }
 
 /*[id*=modal_close] button {
