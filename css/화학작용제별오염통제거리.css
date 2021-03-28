@@ -488,7 +488,7 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 	position: fixed;
     display: inline-block;
     width: 100%;
-     height: 50px; 
+     height: 37px; 
     /* margin-left: calc(95% - 70px - 13px); */
     
     /*margin-top: 0px;*/
