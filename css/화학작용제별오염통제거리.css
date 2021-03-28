@@ -81,9 +81,7 @@ button{
   padding: 2px;
   background: #F1EFEF;
   border-radius: 5px;
-  /*border: 1px solid #F0F0F0;*/
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
+  border: 1px solid #F0F0F0;
 }
 
 
@@ -497,6 +495,8 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     /*margin-bottom: 0px;*/
       padding-top: 0px;
     border-top-width: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 /*[id*=modal_close] button {
