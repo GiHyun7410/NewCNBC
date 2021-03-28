@@ -2,8 +2,6 @@
 /* CSS Document */
 
 
-
-
 #modal_close_01 {
 	border-bottom-width: 0px;
     padding-top: 10px;
@@ -17,6 +15,8 @@
     left: 0px;
     z-index: 1;
 }
+
+
 
 #modal_close_02 {
 	border-bottom-width: 0px;

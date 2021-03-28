@@ -14,58 +14,51 @@ function init() {
 
 
 
-	function swClick(swId){
+	// function swClick(swId){
 			
-		var swNum = swId.replace('modal_opne_btn','');
+	// 	var swNum = swId.replace('modal_opne_btn','');
 			
-		switch(swNum){
+	// 	switch(swNum){
 				
-			case '':
-				$("#modal_opne_btn").click(function(){
-					$("#modal").fadeIn();
-				});
-				break;
-			case '_01':
-				$("#modal_opne_btn").click(function(){
-					$("#modal_01").fadeIn();
-				});
-				break;
-			case '_02':
-				$("#modal_opne_btn").click(function(){
-					$("#modal_02").fadeIn();
-				});
-				break;
-			case '_03':
-				$("#modal_opne_btn").click(function(){
-					$("#modal_03").fadeIn();
-				});
-				break;
-			case '_04':
-				$("#modal_opne_btn").click(function(){
-					$("#modal_04").fadeIn();
-				});
-				break;
-			case '_05':
-				$("#modal_opne_btn").click(function(){
-					$("#modal_05").fadeIn();
-				});
-				break;
-			case '_06':
-				$("#modal_opne_btn").click(function(){
-					$("#modal_06").fadeIn();
-				});
-				break;
-		}
-	}	
+	// 		case '':
+	// 			$("#modal_opne_btn").click(function(){
+	// 				$("#modal").fadeIn();
+	// 			});
+	// 			break;
+	// 		case '_01':
+	// 			$("#modal_opne_btn").click(function(){
+	// 				$("#modal_01").fadeIn();
+	// 			});
+	// 			break;
+	// 		case '_02':
+	// 			$("#modal_opne_btn").click(function(){
+	// 				$("#modal_02").fadeIn();
+	// 			});
+	// 			break;
+	// 		case '_03':
+	// 			$("#modal_opne_btn").click(function(){
+	// 				$("#modal_03").fadeIn();
+	// 			});
+	// 			break;
+	// 		case '_04':
+	// 			$("#modal_opne_btn").click(function(){
+	// 				$("#modal_04").fadeIn();
+	// 			});
+	// 			break;
+	// 		case '_05':
+	// 			$("#modal_opne_btn").click(function(){
+	// 				$("#modal_05").fadeIn();
+	// 			});
+	// 			break;
+	// 		case '_06':
+	// 			$("#modal_opne_btn").click(function(){
+	// 				$("#modal_06").fadeIn();
+	// 			});
+	// 			break;
+	// 	}
+	// }	
 
 
-// 작용제 도달시간 
-   	$("#modal_opne_btn_00").click(function(){
-		$("#modal_00").fadeIn();
-    });
- 	$("#modal_close_btn_00").click(function(){
-        $("#modal_00").fadeOut();
-    }); 
 
 	$("#modal_opne_btn_a00").click(function(){
         $("#modala00").fadeIn();
