@@ -493,5 +493,175 @@ function init() {
         $("#modal_49").fadeOut();
   	});
 
+  	$("#modal_open_btn_50").click(function(){
+		$("#modal_50").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_50").click(function(){
+        $("#modal_50").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+  	$("#modal_open_btn_49").click(function(){
+		$("#modal_49").fadeIn();
+    });
+   
+ 	$("#modal_close_btn_49").click(function(){
+        $("#modal_49").fadeOut();
+  	});
+
+
+
   }
   window.onload = init;
