@@ -479,7 +479,7 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 
 
 [id*=modal] button {
-	top: 0px;
+	top: -10px;
   /*display:inline-block;
   width:100px;
   margin-left:calc(95% - 70px - 13px);
