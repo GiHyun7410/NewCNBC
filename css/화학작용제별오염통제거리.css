@@ -495,8 +495,8 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
     /*margin-bottom: 0px;*/
       padding-top: 0px;
     border-top-width: 0px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
 }
 
 /*[id*=modal_close] button {
