@@ -4,7 +4,6 @@
 html, html * {
 	margin: 0;
 	font-size: 100%;
-/*		padding-top: 0px;*/
 	padding-right: 0px;
 	padding-left: 0px;
 	box-sizing: border-box;
@@ -480,50 +479,15 @@ input#sidebar1:checked ~ .background1 {opacity: .8; visibility: visible;}
 
 [id*=modal] button {
 	top: 0px;
-  /*display:inline-block;
-  width:100px;
-  margin-left:calc(95% - 70px - 13px);
-  position: relative;
-  margin-top: 5px;*/
 	position: fixed;
-    display: inline-block;
-    width: 100%;
-     height: 37px; 
-    /* margin-left: calc(95% - 70px - 13px); */
-    
-    /*margin-top: 0px;*/
-    /*margin-bottom: 0px;*/
-      padding-top: 0px;
-    border-top-width: 0px;
-    border-bottom-right-radius: 40px;
-    border-bottom-left-radius: 40px;
-}
-
-/*[id*=modal_close] button {
-	border-bottom-width: 0px;
-    padding-top: 10px;
-    border-top-width: 0px;
-    padding-bottom: 10px;
-    padding-left: 0px;
-    padding-right: 0px;
-    border-right-width: 0px;
-    border-left-width: 0px;
-    top: 0px;
-    left: 0px;
-}*/
-/*
-[id*=modal] .modal_content {
+	display: inline-block;
 	width: 100%;
-	margin: 0 auto;
-	padding-right: 0px;
-	padding-left: 0px;
-	padding-bottom: 5px;
+	height: 37px;	 
 	padding-top: 0px;
-	z-index: 600;
-	background:#fff;
-	border:2px solid #999;
-	border-radius: 5px;
-}*/
+	border-top-width: 0px;
+	border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+}
 
 
 [id*=hedl] .modal_layer {
