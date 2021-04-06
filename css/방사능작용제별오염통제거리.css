@@ -60,7 +60,7 @@ html, html * {
 
 .table2{position: absolute;	top: 200px;	width: 100%;	z-index: -1;	}
 
-.table{	background-color: #385723;}
+.table{	background-color: #ff0000;}
 
 .tbwid_10{width:10%;}
 .tbwid_20{width:50%;}
