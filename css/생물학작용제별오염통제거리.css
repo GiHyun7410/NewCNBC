@@ -51,9 +51,9 @@ html, html * {
 }
 
 
-.hedl2{	font-size: 15px;	background-color: #FFFFFF;	color: red;}
+.hedl2{	font-size: 15px;	background-color: #FFFFFF;	color: #44546a;}
 
-.hedl{font-size: 20px; background-color: #FFFFFF; color: red; height: 2.5em;}
+.hedl{font-size: 20px; background-color: #FFFFFF; color: #44546a; height: 2.5em;}
 
 .table1 th{	border:1px solid #C8C8C8;}
 .table2 td{	border-right: 0px;	border-left: 0px; }    
