@@ -14,8 +14,8 @@ html, html * {
 
 #containerB{width: 100%; margin: 0 auto;}
 #containerB #input-form {text-align: center;}
-#user-table{margin-top: 43px; text-align: center;position: fixed;}
-#input-form{margin-top: 0px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; width: 100%; z-index: 0; color: aliceblue;}
+#user-table{margin-top: 52px; text-align: center;position: fixed;}
+#input-form{margin-top: 0px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; width: 100%; z-index: 1; color: aliceblue;}
 
 #user-table{border-collapse: collapse;}
 #user-table > thead >tr {background-color: #333; color: #fff;}
@@ -46,12 +46,14 @@ html, html * {
 
 .tex{
 	z-index: -10;
+	width: 58%;
+    height: 2em;
 }
 
 
 .hedl2{	font-size: 15px;	background-color: #FFFFFF;	color: red;}
 
-.hedl{font-size: 20px; background-color: #FFFFFF; color: red; height: 2em;}
+.hedl{font-size: 20px; background-color: #FFFFFF; color: red; height: 2.5em;}
 
 .table1 th{	border:1px solid #C8C8C8;}
 .table2 td{	border-right: 0px;	border-left: 0px; }    
@@ -115,12 +117,7 @@ table{
 	border-collapse: collapse;
 }
 
-th, td{
-	border: 1px solid lightgray;
-	text-align: center;
-	padding: 5px;
-
-}
+th, td{	border-left: 0px; border-right: 1px; text-align: center; padding: 5px; }
 
 tr{
 
