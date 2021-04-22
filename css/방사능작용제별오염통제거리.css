@@ -14,7 +14,7 @@ html, html * {
 
 #containerB{width: 100%; margin: 0 auto;}
 #containerB #input-form {text-align: center;}
-#user-table{margin-top: 43px; text-align: center;position: fixed;}
+#user-table{margin-top: 52px; text-align: center;position: fixed;}
 #input-form{margin-top: 0px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; width: 100%; z-index: 1; color: aliceblue;}
 
 #user-table{border-collapse: collapse;}
