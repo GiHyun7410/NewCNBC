@@ -63,7 +63,7 @@ html, html * {
 
 .table{	background-color: #ff0000;}
 
-.tbwid_10{width:10%;}
+.tbwid_10{width:10%; height: 3em;}
 .tbwid_20{width:50%;}
 .tbwid_40{width:20%;}
 .tbwid_50{width:20%;}
