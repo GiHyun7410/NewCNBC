@@ -79,7 +79,7 @@ html, html * {
 
 button{
   width: 3em;
-  padding: 10px;
+  padding: 14px;
   background: #F1EFEF;
   border-radius: 5px;
   border: 1px solid #F0F0F0;
@@ -89,7 +89,7 @@ button{
 
 
 .btn1{
-	width: 90%;
+	width: 98%;
 }
 
 .modal_content{ background: #385723; }
