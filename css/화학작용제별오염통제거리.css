@@ -522,7 +522,7 @@ h3{
 }
 
 input{
-	background-image: url(./picture/'화살표2.gif');
+	background-image: url(./picture/"화살표2.gif");
 	background-position: right;
 	background-repeat: no-repeat;
 }
