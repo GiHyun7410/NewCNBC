@@ -97,7 +97,7 @@ button{
 }
 
 .modal_content{ 
-	background: #FFFFFF; 
+	background: #385723; 
 }
 
 
@@ -193,7 +193,7 @@ input[id="sidebar"] + label {
 	position: fixed;
 	top:0; right:-300px;
 	width:40%; height: auto;
-	background: #385723;
+	background: #FFFFFF;
 	transition:all .35s;
 	z-index:30;	
 }
