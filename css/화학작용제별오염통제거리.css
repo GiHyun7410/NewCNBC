@@ -154,9 +154,7 @@ table caption{
 	font-weight: 700;
 }
 
-embed{
-	z-index: 100;
-}
+/* embed{z-index: 100;} */
 
 
 /*----------------------------------------------------------------------------------------*/
@@ -195,7 +193,7 @@ input[id="sidebar"] + label {
 	position: fixed;
 	top:0; right:-300px;
 	width:40%; height: auto;
-	background: #FFFFFF;
+	background: #385723;
 	transition:all .35s;
 	z-index:30;	
 }
