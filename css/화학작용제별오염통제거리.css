@@ -96,7 +96,9 @@ button{
 	width: 98%;
 }
 
-.modal_content{ background: #385723; }
+.modal_content{ 
+	background: #FFFFFF; 
+}
 
 
 
