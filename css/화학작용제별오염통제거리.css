@@ -99,7 +99,9 @@ button{
 	width: 98%;
 }
 
-.modal_content{ background: #385723; }
+.modal_content{ 
+	background: #385723; 
+}
 
 
 
@@ -154,6 +156,8 @@ table caption{
 	font-size: 20px;
 	font-weight: 700;
 }
+
+/* embed{z-index: 100;} */
 
 
 /*----------------------------------------------------------------------------------------*/
